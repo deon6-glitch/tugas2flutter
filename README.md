@@ -1,4 +1,4 @@
-# tugas_2
+# Tugas Layout 2 Pemrograman Mobile
 
 A new Flutter project.
 
